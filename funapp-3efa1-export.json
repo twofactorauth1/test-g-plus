@@ -1,0 +1,21 @@
+{
+  "fcmTokens" : {
+    "fJRLeCRN6D4:APA91bGV3KZeAGprU53pN-KMmKrgoq0KkzjvFgl-BK1BvDIkeepLGPtiT--NBBewPuMvDgyVY-HkOz_25--a2m3zy5i54g4uzpNtYXD4co0nybufalsEEEjkTvPq-cKJT1q-mExoWf-y" : "MsThearyeyQ17ePQNQqBckoxTFi2"
+  },
+  "mvp" : {
+    "notes" : {
+      "-LFa9Lrii2LjGoqysetU" : {
+        "noteContent" : "3",
+        "userId" : 55272362360
+      },
+      "-LFa9MFClfSU_Ov-r5eN" : {
+        "noteContent" : "4",
+        "userId" : 55272362360
+      },
+      "-LFaBOSaNIMPtHR7VZT9" : {
+        "noteContent" : "This should not be visible",
+        "userId" : 55272362361
+      }
+    }
+  }
+}

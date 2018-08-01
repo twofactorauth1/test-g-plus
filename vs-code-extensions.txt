@@ -1,0 +1,31 @@
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension WallabyJs.quokka-vscode
+code --install-extension christian-kohler.path-intellisense
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dbankier.vscode-instant-markdown
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension gerane.Theme-Brogrammer
+code --install-extension gerane.Theme-Dark-Dracula
+code --install-extension ms-vscode.sublime-keybindings
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension naumovs.color-highlight
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension ritwickdey.LiveServer
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension wix.vscode-import-cost
+
+//settings
+{
+  "window.zoomLevel": 0,
+  "typescript.check.tscVersion": false,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Dark-Dracula",
+  "editor.fontFamily":
+    "'SFMono-Regular',Consolas,'Liberation Mono',Menlo,Courier,monospace",
+  "telemetry.enableTelemetry": false,
+  "editor.formatOnSave": false,
+  "javascript.format.enable": false,
+  "prettier.eslintIntegration": true,
+  "workbench.editor.enablePreview": false
+}
